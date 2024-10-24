@@ -7,12 +7,102 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The Ivy League has been at the forefront of sports injury policies—specifically in regard to concussions. The league is invested in keeping the game safe by making new guidelines for practice and changing game regulations."
+          },
+          {
+            "type": "text",
+            "value": "The NCAA and U.S. Department of Defense’s 2014 implementation of the 2014 Concussion Assessment, Research and Education Consortium was one of the first steps taken to document concussions. This research came only a few years before the Ivy League implemented a new kickoff rule designed to decrease concussions. In the years since the study, the NCAA has recorded over 5,000 concussions in 30 different institutions."
+          },
+          {
+            "type": "text",
+            "value": "According to the NCAA reports, the highest number of concussions come from wrestling, men and women’s ice hockey, football, and women’s soccer. The NCAA and the Ivy League have made concussions a topic at the center of conversation in recent years with new policies, studies, and implementations meant to reduce injuries to the head."
+          },
+          {
+            "type": "text",
+            "value": "“With the idea being that if we can change something about the way the sports are played, the policy change, maybe we could affect a change on the likelihood of concussions occurring,” Dr. James Noble, associate professor of neurology at Columbia University Irving Medical Center, said. “But it’s trying to understand, if somebody was injured, what sport were they playing? What was the context of it? Was it a practice? Was it a competition? Was it a certain kind of play?”"
+          },
+          {
+            "type": "text",
+            "value": "By comparing the number of concussions caused by different plays, researchers could determine that kickoffs by far had the highest rate of concussions compared to other plays. A kickoff occurs at the beginning of a new drive, where the “kicking team” kicks the ball to the receiving team. The receiving team can then decide to run the ball up the field, often resulting in high-speed collisions. These collisions mean that this play was a big contributor to injuries overall, both concussion-related and not."
+          },
+          {
+            "type": "text",
+            "value": "In 2016, the Ivy League changed its kickoff rule to reduce concussions. Afterward, there was a significant increase in the rate of touchbacks and thus, a reduction in attempts to run the ball."
+          },
+          {
+            "type": "text",
+            "value": "“The first policy change that followed with changes in the kickoff rule was within the Ivy League,” Dr. Noble said. “Basically there was a realization that, down to the level of an individual play, the kickoff ended up being one of the most risky events in football.”"
+          },
+          {
+            "type": "text",
+            "value": "Previously, kickoffs were at the 35-yard line, where there was a higher likelihood that the ball would land on the field and the receiving team would have the opportunity to run the ball. By moving the kickoff line to 40 yards, there was a higher chance of the ball landing in the end zone where the receiving team often opts to kneel for a touchback instead."
+          },
+          {
+            "type": "text",
+            "value": "While kickoffs only make up 6 percent of plays in Ivy League football, they accounted for a quarter of all concussions."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "concussions-container.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Before the rule change, from 2013 to 2017, the annual concussion rate in kickoffs alone was 10.3 per 1000 plays. After the new rule was introduced, this number decreased to 2.04 per 1000 plays—a significant decline that has been attributed to the new policy."
+          },
+          {
+            "type": "text",
+            "value": "At the same time as the 2016 kickoff rule change, the Ivy League made another historic decision in football safety. Practices can be just as dangerous for a player as a game, if not more so. A 2021 study led by JAMA Neurology showed that head impact exposure during practice was significantly higher than head impact exposure during game time."
+          },
+          {
+            "type": "text",
+            "value": "Taking an example from Dartmouth, which reduced contact practices in 2010, the Ivy League decided to stop contact practices altogether during the regular season. In comparison, the NCAA suggests that contact practices can happen as often as twice a week while in season. This move continued the Ivy League’s already stringent practice regulations, highlighting its commitment to limiting injuries."
+          },
+          {
+            "type": "text",
+            "value": "These changes in practices coincided with new developments in technology. While Dartmouth was the first in the Ivy League to switch to no-contact practice, it did so with a “mobile virtual player,” a remote-controlled robotic padded player that helps practices while limiting contact."
+          },
+          {
+            "type": "text",
+            "value": "A continuous study run by the Big 10 and the Ivy League that started in 2013 has tracked over 4,000 concussions in student-athletes from 21 different schools. This study has led to the publishing of numerous articles and shed light on treating concussions on a long-term scale."
+          },
+          {
+            "type": "text",
+            "value": "“Here’s really what looks like best practice from our standpoint. How does that align with your team? Right? So I think there is a general appreciation to try to minimize these kinds of injuries of any kind,” Dr. Noble said in reference to practice policies."
+          },
+          {
+            "type": "text",
+            "value": "While concussions are an often discussed concern in high-impact sports, they are only one of the numerous injuries that athletes can accrue throughout a long career. The Ivy League-Big 10 studies have contributed to a greater understanding of sports-related concussions, findings that will hopefully prevent future concussions and lead to improvements in determining recovery times as athletes return—not only to athletic play but also to their full academic capabilities as students."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Sports Editor Arielle Rieder can be contacted at </i><a href=\"mailto:arielle.rieder@columbiaspectator.com\"><i>arielle.rieder@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/ArielleRieder\"><i>@ArielleRieder</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>.  Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "How the Ivy League is tackling concussions in football",
+        "dek": "At the forefront of athletic safety, the Ivy League’s regulation changes dating back to 2016 have made attempts to reduce concussions.",
+        "date": "October 23, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/arielle-rieder/\">Arielle Rieder</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/molly-durawa/\">Molly Durawa</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/WVOFYCF4TFHRFMB7RNABNHOBM4.jpg",
+        "cover_caption": "Mila Pretolani / Staff Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/11W_d_ax5WMNMAmBAHYnsDgNWl7nR6sidm0weQNkgP0c/edit?tab=t.0"
       }
     }
   }
